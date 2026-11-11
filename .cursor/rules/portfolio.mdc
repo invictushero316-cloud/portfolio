@@ -1,0 +1,16 @@
+---
+description: Non-negotiable rules for Matheus Silva's premium animated no-contact portfolio
+alwaysApply: true
+---
+
+READ `docs/PROJECT_BRIEF.md` and `docs/ASSET_CHECKLIST.md` before implementation.
+
+1. **ABSOLUTE: ZERO CONTACT DETAILS OR CONTACT UX.** Never show, save, commit, embed, request or publish any personal phone number, email address, WhatsApp/personal-messenger link, social handle, personal profile link (including Workana), scheduling link, contact form, contact page, contact nav item, 'Contact', 'Hire Me', 'Let's Talk' CTA, or resume/CV file with personal details. This includes visible UI, alt text, JSON, schema, metadata, environment variables, analytics events, tests, placeholder fixtures and final compiled assets. A project *about* WhatsApp chatbot functionality is allowed; a WhatsApp contact button is not.
+2. Include only navigation to Home, About, Experience, Skills, Projects, Creative Lab, Certifications. CTA examples: 'Ver projetos', 'Explorar experiência', 'Ver detalhes', 'Conhecer o laboratório criativo'. Footer has section nav and name/role only.
+3. Original creative design inspired by the atmosphere of diegosevilla.dev; don't copy artwork, layout, code or text. Clean blue/white aesthetics, rich intentional GSAP motion, high clarity on desktop and mobile.
+4. React + TypeScript + Vite + Tailwind, GSAP + @gsap/react + ScrollTrigger; Lottie only with original approved media. Avoid unnecessary dependencies and heavy 3D.
+5. Default content pt-BR, translations en and es; appropriate `html lang`, metadata and accessible language toggle. No contact metadata or Person schema with contact data.
+6. Don't invent personal contributions, client results, precise project tech, awards, fake screenshots or verified links. External case-study reference sites do not prove authorship. Fresha must be omitted unless specific work is confirmed.
+7. The PDF's generated concept artwork is **Concept Art**, not evidence of shipped Unity projects or confirmed production methods.
+8. Preserve source-of-truth docs and this rule file. Build only the requested phase. After each phase test typecheck/lint/build, inspect in a browser if available, and report edits, test results, screenshots and needed non-contact assets.
+9. Add no contact fields even as empty placeholders, TODOs, disabled buttons or planned future features.

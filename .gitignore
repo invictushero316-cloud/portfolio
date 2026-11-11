@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+.env
+.env.*
+!.env.example
+.vercel
+reference-only/*
+!reference-only/README.txt
+.DS_Store

@@ -1,0 +1,1 @@
+Store Diego design reference screenshots, approved portrait references, the original Video_Editing.pdf and private QA captures here. NOT FOR PUBLICATION. Do not store personal contact details. The folder is excluded from Git except this README.

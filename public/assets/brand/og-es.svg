@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img">
+  <title>Matheus Silva, desarrollador full stack e ingeniero de IA.</title>
+  <rect width="1200" height="630" fill="#E9F4FF"/>
+  <circle cx="980" cy="250" r="132" fill="none" stroke="#70B7FF" stroke-width="2"/>
+  <path d="M760 250H848V360H980" fill="none" stroke="#0C2D59" stroke-width="2"/>
+  <circle cx="980" cy="360" r="7" fill="#1D6FF2"/>
+  <text x="88" y="286" fill="#0C2D59" font-family="Georgia, 'Times New Roman', serif" font-size="72">Matheus Silva</text>
+  <text x="88" y="360" fill="#0C2D59" font-family="'Segoe UI', sans-serif" font-size="32">Desarrollador Full Stack e Ingeniero de IA</text>
+</svg>
